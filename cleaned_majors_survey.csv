@@ -1,0 +1,243 @@
+timestamp,course,degree_program,gender,race_ethnicity,interest_level,affordable_cost,location_convenience,choice_of_programs,online_offerings,family_friend_referral,college_reputation,to_get_a_job_in_the_computing_field,transfer_to_bachelors_level_program,career_advancement,career_change,ccm_web_site,social_media,family_member_or_friend,high_school_counselor
+2023/09/04 5:12:28 PM EST,CMP 239 Internet & Web Page Design,computing_engineering,Man,black_african_american,,High Impact,High Impact,High Impact,,High Impact,High Impact,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+2023/09/04 5:15:24 PM EST,CMP 128 Computer Science I,computing_engineering,Woman,asian_pacific_islander,,No Impact,,High Impact,Some Impact,High Impact,,Yes,Yes,Yes,No,Yes,Don't recall,Yes,Don't recall
+2023/09/04 9:19:18 PM EST,CMP 239 Internet & Web Page Design,computing_engineering,Woman,hispanic_latino,,High Impact,High Impact,High Impact,High Impact,Some Impact,Some Impact,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+2023/09/04 10:55:07 PM EST,CMP 239 Internet & Web Page Design,computing_engineering,Non-binary,asian_pacific_islander,,Some Impact,High Impact,Some Impact,High Impact,No Impact,No Impact,Yes,No,Yes,No,Yes,No,Yes,No
+2023/09/05 8:53:07 AM EST,CMP 239 Internet & Web Page Design,computing_engineering,Woman,hispanic_latino,,High Impact,Some Impact,No Impact,No Impact,No Impact,Some Impact,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+2023/09/05 1:14:54 PM EST,CMP 239 Internet & Web Page Design,cis game development option,Man,asian_pacific_islander,,Some Impact,Some Impact,,Some Impact,No Impact,No Impact,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+2023/09/05 3:21:23 PM EST,,computing_engineering,Man,asian_pacific_islander,,Some Impact,No Impact,No Impact,No Impact,Some Impact,Some Impact,Yes,Yes,No,No,No,No,Yes,Yes
+2023/09/06 7:39:41 AM EST,CMP 128 Computer Science I,computing_engineering,Man,hispanic_latino,,No Impact,No Impact,No Impact,No Impact,No Impact,No Impact,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+2023/09/06 7:40:31 AM EST,CMP 128 Computer Science I,computing_engineering,Man,hispanic_latino,,No Impact,High Impact,No Impact,No Impact,Some Impact,No Impact,Yes,Yes,Yes,Yes,No,No,No,Yes
+2023/09/06 7:48:29 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,Some Impact,High Impact,No Impact,No Impact,Some Impact,Yes,Yes,Yes,Yes,No,No,Yes,No
+2023/09/06 7:48:32 AM EST,CMP 128 Computer Science I,economics,Woman,black_african_american,3.0,High Impact,High Impact,High Impact,No Impact,No Impact,High Impact,,,,,No,No,Yes,No
+2023/09/06 7:50:24 AM EST,CMP 128 Computer Science I,edam share time,Man,asian_pacific_islander,4.0,No Impact,No Impact,High Impact,No Impact,No Impact,No Impact,,,,,No,Don't recall,Don't recall,Yes
+2023/09/06 8:43:06 AM EST,CMP 128 Computer Science I,computing_engineering,Man,hispanic_latino,,Some Impact,High Impact,No Impact,High Impact,No Impact,Some Impact,Yes,Yes,Yes,Yes,Don't recall,Don't recall,Don't recall,Don't recall
+2023/09/06 9:18:50 AM EST,CMP 128 Computer Science I,nursing,Woman,asian_pacific_islander,1.0,High Impact,High Impact,High Impact,High Impact,Some Impact,Some Impact,,,,,Yes,Don't recall,Yes,Yes
+2023/09/06 9:43:20 AM EST,,computing_engineering,Man,black_african_american,,High Impact,High Impact,High Impact,High Impact,No Impact,No Impact,Yes,Yes,Yes,Yes,Don't recall,No,No,No
+2023/09/06 10:09:20 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,Some Impact,Some Impact,No Impact,High Impact,High Impact,Yes,Yes,Yes,No,No,No,No,No
+2023/09/06 10:10:32 AM EST,CMP 128 Computer Science I,data analytics certificate of achievement,Man,other,,High Impact,High Impact,High Impact,High Impact,High Impact,Some Impact,Yes,Yes,No,Yes,No,No,Yes,Yes
+2023/09/06 10:11:52 AM EST,CMP 128 Computer Science I,challenger program,Woman,asian_pacific_islander,,High Impact,High Impact,Some Impact,Some Impact,Some Impact,No Impact,Yes,No,Yes,Yes,No,No,Yes,Yes
+2023/09/06 10:52:53 AM EST,CMP 128 Computer Science I,undecided,Man,hispanic_latino,4.0,High Impact,High Impact,High Impact,Some Impact,,,,,,,Yes,Yes,Yes,Yes
+2023/09/06 11:06:40 AM EST,CMP 128 Computer Science I,computing_engineering,Man,hispanic_latino,,High Impact,High Impact,Some Impact,High Impact,High Impact,High Impact,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2023/09/06 11:33:48 AM EST,CMP 128 Computer Science I,"i am a student from mcvts, and i am doing dual enrollment.",Woman,asian_pacific_islander,5.0,,,,,,,,,,,No,No,No,Yes
+2023/09/06 11:37:16 AM EST,CMP 128 Computer Science I,sharetime csip program,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,,,Some Impact,Yes,Yes,No,Yes,No,No,Yes,Yes
+2023/09/06 11:57:01 AM EST,CMP 128 Computer Science I,computing_engineering,Man,hispanic_latino,5.0,High Impact,High Impact,High Impact,High Impact,High Impact,High Impact,,,,,Yes,No,Yes,Yes
+2023/09/06 12:16:19 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,3.0,High Impact,High Impact,Some Impact,,,No Impact,,,,,Yes,Yes,No,No
+2023/09/06 12:23:26 PM EST,CMP 128 Computer Science I,computing_engineering,Woman,asian_pacific_islander,,High Impact,High Impact,No Impact,No Impact,No Impact,No Impact,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+2023/09/06 12:47:16 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,Some Impact,No Impact,Some Impact,No Impact,High Impact,No Impact,Yes,Yes,No,No,No,Yes,Yes,Yes
+2023/09/06 1:23:29 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,Some Impact,High Impact,High Impact,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+2023/09/06 1:23:30 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,3.0,High Impact,Some Impact,High Impact,Some Impact,No Impact,Some Impact,,,,,Yes,No,Yes,No
+2023/09/06 1:23:43 PM EST,CMP 128 Computer Science I,liberal arts,Prefer not to say,asian_pacific_islander,3.0,High Impact,High Impact,High Impact,No Impact,Some Impact,No Impact,,,,,No,No,No,No
+2023/09/06 1:24:33 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,High Impact,,High Impact,Yes,Yes,Yes,No,Yes,Don't recall,Don't recall,Don't recall
+2023/09/06 1:24:59 PM EST,CMP 128 Computer Science I,edam,Man,asian_pacific_islander,3.0,No Impact,Some Impact,No Impact,No Impact,Some Impact,Some Impact,,,,,No,Yes,Yes,No
+2023/09/06 1:25:39 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,No Impact,Some Impact,High Impact,No Impact,No Impact,High Impact,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+2023/09/06 1:26:02 PM EST,CMP 128 Computer Science I,undecided,Man,asian_pacific_islander,4.0,High Impact,High Impact,No Impact,No Impact,High Impact,High Impact,,,,,No,Yes,Yes,Yes
+2023/09/06 1:26:52 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,3.0,High Impact,High Impact,Some Impact,No Impact,No Impact,,,,,,Yes,No,No,Yes
+2023/09/06 1:31:34 PM EST,CMP 128 Computer Science I,computing_engineering,Woman,other,,Some Impact,High Impact,Some Impact,High Impact,Some Impact,Some Impact,Yes,No,No,Yes,No,No,No,No
+2023/09/06 1:34:54 PM EST,CMP 128 Computer Science I,computing_engineering,Man,other,3.0,High Impact,High Impact,High Impact,High Impact,Some Impact,High Impact,,,,,No,No,Yes,Yes
+2023/09/06 1:34:57 PM EST,CMP 128 Computer Science I,mec tech,Man,asian_pacific_islander,3.0,High Impact,Some Impact,Some Impact,Some Impact,Some Impact,Some Impact,,,,,Yes,Yes,Yes,No
+2023/09/06 1:41:15 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,Some Impact,Some Impact,No Impact,Some Impact,Yes,Yes,No,No,No,No,Yes,Yes
+2023/09/06 1:53:01 PM EST,CMP 128 Computer Science I,computing_engineering,Man,hispanic_latino,,No Impact,No Impact,No Impact,No Impact,No Impact,No Impact,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2023/09/06 2:39:49 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,Some Impact,High Impact,Some Impact,High Impact,High Impact,Yes,Yes,No,Yes,No,Yes,Yes,No
+2023/09/06 2:45:41 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,Some Impact,High Impact,Some Impact,Some Impact,No Impact,Yes,Yes,No,No,No,No,Yes,No
+2023/09/06 2:46:55 PM EST,CMP 128 Computer Science I,cis game development option,Man,asian_pacific_islander,,Some Impact,High Impact,High Impact,No Impact,No Impact,High Impact,Yes,Yes,Yes,No,No,Don't recall,Yes,No
+2023/09/06 2:49:59 PM EST,CMP 128 Computer Science I,undecided,Man,asian_pacific_islander,4.0,,,,,,,,,,,No,Yes,No,Yes
+2023/09/06 3:00:54 PM EST,CMP 128 Computer Science I,visiting student,Man,asian_pacific_islander,5.0,No Impact,Some Impact,No Impact,No Impact,No Impact,Some Impact,,,,,Yes,Yes,Yes,No
+2023/09/06 3:19:20 PM EST,CMP 128 Computer Science I,computing_engineering,Woman,hispanic_latino,,High Impact,High Impact,High Impact,Some Impact,High Impact,High Impact,Yes,Yes,Yes,No,Yes,No,Yes,No
+2023/09/06 3:32:57 PM EST,CMP 128 Computer Science I,cis game development option,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,No Impact,Some Impact,High Impact,Yes,Yes,Yes,No,Yes,No,Yes,No
+2023/09/06 3:37:41 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,Some Impact,No Impact,No Impact,No Impact,Yes,Yes,No,Yes,No,No,No,No
+2023/09/06 3:38:16 PM EST,CMP 128 Computer Science I,cis game development option,Man,hispanic_latino,,High Impact,High Impact,High Impact,No Impact,No Impact,Some Impact,No,Yes,Yes,No,No,No,Yes,No
+2023/09/06 3:40:37 PM EST,CMP 128 Computer Science I,business administration,Man,hispanic_latino,3.0,High Impact,High Impact,No Impact,No Impact,No Impact,No Impact,,,,,Don't recall,Don't recall,Don't recall,Yes
+2023/09/06 3:45:00 PM EST,CMP 128 Computer Science I,computing_engineering,Woman,asian_pacific_islander,,High Impact,Some Impact,No Impact,Some Impact,Some Impact,No Impact,Yes,Yes,Yes,Yes,No,No,Yes,No
+2023/09/06 3:48:58 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,High Impact,High Impact,Some Impact,Yes,Yes,No,No,No,No,Yes,Yes
+2023/09/06 4:07:08 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,2.0,High Impact,High Impact,No Impact,No Impact,No Impact,No Impact,,,,,Yes,No,No,No
+2023/09/06 5:11:40 PM EST,CMP 128 Computer Science I,computing_engineering,Man,hispanic_latino,,High Impact,High Impact,High Impact,High Impact,,Some Impact,Yes,Yes,Yes,No,No,No,No,Yes
+2023/09/06 5:46:32 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,Some Impact,Some Impact,No Impact,No Impact,Some Impact,Yes,Yes,No,Yes,Yes,No,Yes,No
+2023/09/07 2:12:21 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,,,,,,Yes,Yes,Yes,Yes,No,No,No,No
+2023/09/07 7:41:06 AM EST,CMP 128 Computer Science I,undecided,Non-binary,asian_pacific_islander,4.0,No Impact,Some Impact,Some Impact,No Impact,Some Impact,No Impact,,,,,Yes,No,Yes,No
+2023/09/07 7:41:47 AM EST,CMP 128 Computer Science I,challenger program,Woman,other,,No Impact,No Impact,No Impact,No Impact,No Impact,No Impact,Yes,Yes,Yes,Yes,No,No,No,Yes
+2023/09/07 8:38:23 AM EST,CMP 131 Fundamentals of Programming (Python),data analytics certificate of achievement,Woman,asian_pacific_islander,,High Impact,No Impact,No Impact,No Impact,Some Impact,High Impact,No,No,No,Yes,Don't recall,Don't recall,Yes,No
+2023/09/07 8:41:20 AM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,Some Impact,No Impact,No Impact,No Impact,Yes,Yes,No,No,Yes,No,Yes,No
+2023/09/07 8:42:02 AM EST,CMP 131 Fundamentals of Programming (Python),data science,Man,asian_pacific_islander,4.0,High Impact,High Impact,High Impact,Some Impact,Some Impact,High Impact,,,,,Yes,Yes,Yes,Yes
+2023/09/07 8:42:17 AM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,asian_pacific_islander,,High Impact,Some Impact,Some Impact,No Impact,High Impact,,Yes,Yes,No,No,No,No,Yes,No
+2023/09/07 8:43:33 AM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,black_african_american,,Some Impact,Some Impact,High Impact,No Impact,High Impact,Some Impact,Yes,Yes,Yes,No,No,No,Yes,Yes
+2023/09/07 8:44:05 AM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Woman,asian_pacific_islander,,High Impact,High Impact,Some Impact,Some Impact,High Impact,Some Impact,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+2023/09/07 8:44:38 AM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,No Impact,High Impact,,No,Yes,Yes,Yes,No,No,No,No
+2023/09/07 8:46:46 AM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,other,,High Impact,High Impact,High Impact,Some Impact,High Impact,High Impact,Yes,Yes,No,No,Yes,No,Yes,No
+2023/09/07 8:46:48 AM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,hispanic_latino,,Some Impact,Some Impact,Some Impact,Some Impact,Some Impact,Some Impact,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+2023/09/07 8:47:18 AM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,other,,Some Impact,Some Impact,High Impact,No Impact,Some Impact,Some Impact,Yes,Yes,Yes,No,No,No,Yes,No
+2023/09/07 8:48:02 AM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,black_african_american,,High Impact,High Impact,High Impact,Some Impact,High Impact,Some Impact,Yes,No,No,No,No,No,Yes,No
+2023/09/07 8:48:59 AM EST,CMP 131 Fundamentals of Programming (Python),non degree seeking,Man,asian_pacific_islander,4.0,High Impact,Some Impact,High Impact,No Impact,High Impact,Some Impact,,,,,Yes,No,No,Yes
+2023/09/07 8:49:37 AM EST,CMP 131 Fundamentals of Programming (Python),data analytics certificate of achievement,Man,other,,Some Impact,High Impact,Some Impact,Some Impact,Some Impact,Some Impact,Yes,No,Yes,Yes,No,No,Yes,Yes
+2023/09/07 11:07:31 AM EST,CMP 128 Computer Science I,computing_engineering,Woman,asian_pacific_islander,,High Impact,High Impact,High Impact,No Impact,No Impact,High Impact,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+2023/09/07 3:41:15 PM EST,,data analytics certificate of achievement,Woman,asian_pacific_islander,,High Impact,High Impact,High Impact,Some Impact,No Impact,High Impact,Yes,No,Yes,Yes,Yes,No,Yes,No
+2023/09/07 3:56:35 PM EST,CMP 128 Computer Science I,cis game development option,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,No Impact,No Impact,High Impact,Yes,No,No,No,No,No,Yes,No
+2023/09/07 6:37:13 PM EST,CMP 128 Computer Science I,non degree seeking,Man,asian_pacific_islander,4.0,No Impact,Some Impact,Some Impact,High Impact,Some Impact,Some Impact,,,,,Don't recall,Yes,No,Yes
+2023/09/08 8:30:14 AM EST,CMP 128 Computer Science I,undecided,Man,asian_pacific_islander,4.0,Some Impact,High Impact,High Impact,Some Impact,Some Impact,Some Impact,,,,,No,No,Yes,Yes
+2023/09/08 8:53:48 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,3.0,Some Impact,Some Impact,Some Impact,No Impact,Some Impact,No Impact,,,,,No,No,Yes,No
+2023/09/08 11:56:48 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,No Impact,High Impact,Some Impact,No,No,Yes,No,No,No,Yes,No
+2023/09/08 11:57:41 AM EST,CMP 128 Computer Science I,undecided,Man,hispanic_latino,4.0,Some Impact,Some Impact,High Impact,High Impact,Some Impact,No Impact,,,,,Yes,Yes,No,Yes
+2023/09/08 11:57:49 AM EST,CMP 128 Computer Science I,undecided,Man,asian_pacific_islander,5.0,High Impact,High Impact,High Impact,No Impact,Some Impact,High Impact,,,,,No,No,Yes,Yes
+2023/09/08 11:58:45 AM EST,CMP 128 Computer Science I,computing_engineering,Prefer not to say,other,,,,,,High Impact,,No,No,No,No,No,No,Yes,Yes
+2023/09/08 12:11:31 PM EST,CMP 128 Computer Science I,edam sharetime,Man,asian_pacific_islander,3.0,High Impact,High Impact,High Impact,No Impact,High Impact,High Impact,,,,,No,No,Yes,Yes
+2023/09/08 12:16:01 PM EST,CMP 128 Computer Science I,cis game development option,Man,asian_pacific_islander,,Some Impact,Some Impact,Some Impact,No Impact,Some Impact,No Impact,Yes,Yes,No,No,Yes,No,Yes,Yes
+2023/09/08 8:10:38 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,3.0,High Impact,Some Impact,Some Impact,Some Impact,Some Impact,High Impact,,,,,No,No,Yes,Yes
+2023/09/09 12:51:24 PM EST,CMP 128 Computer Science I,computing_engineering,Woman,asian_pacific_islander,,High Impact,High Impact,High Impact,No Impact,No Impact,No Impact,Yes,Yes,Yes,No,Don't recall,Yes,Yes,Don't recall
+2023/09/09 5:55:53 PM EST,CMP 128 Computer Science I,computing_engineering,Man,hispanic_latino,,High Impact,High Impact,High Impact,High Impact,,High Impact,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+2023/09/11 9:14:01 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,High Impact,High Impact,High Impact,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2023/09/11 11:44:25 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,Some Impact,Some Impact,High Impact,Some Impact,High Impact,High Impact,Yes,No,Yes,No,No,No,Yes,No
+2023/09/11 12:25:34 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,No Impact,No Impact,No Impact,No Impact,No Impact,No Impact,Yes,No,Yes,Yes,Yes,No,Yes,Yes
+2023/09/11 12:32:30 PM EST,CMP 128 Computer Science I,computing_engineering,Man,hispanic_latino,,High Impact,High Impact,High Impact,No Impact,No Impact,Some Impact,Yes,No,Yes,No,No,No,No,No
+2023/09/11 12:34:26 PM EST,CMP 128 Computer Science I,computing_engineering,Man,hispanic_latino,,Some Impact,High Impact,No Impact,No Impact,No Impact,No Impact,Yes,Yes,No,No,Yes,No,Don't recall,No
+2023/09/11 1:23:27 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,Some Impact,No Impact,High Impact,Yes,Yes,Yes,Yes,Yes,No,No,No
+2023/09/11 2:33:16 PM EST,CMP 128 Computer Science I,business administration,Woman,hispanic_latino,4.0,High Impact,High Impact,Some Impact,No Impact,No Impact,No Impact,,,,,No,No,No,Yes
+2023/09/11 4:01:57 PM EST,CMP 128 Computer Science I,gaining college credits for high school,Non-binary,asian_pacific_islander,5.0,Some Impact,High Impact,High Impact,No Impact,No Impact,High Impact,,,,,No,No,Yes,Yes
+2023/09/11 5:49:53 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,Some Impact,High Impact,Some Impact,High Impact,No Impact,No Impact,No,Yes,Yes,Yes,No,No,No,No
+2023/09/12 5:39:01 PM EST,CMP 128 Computer Science I,met,Man,asian_pacific_islander,3.0,High Impact,High Impact,High Impact,High Impact,No Impact,No Impact,,,,,Yes,No,No,No
+2023/09/12 7:43:07 PM EST,CMP 128 Computer Science I,computing_engineering,Man,hispanic_latino,,High Impact,High Impact,Some Impact,Some Impact,Some Impact,Some Impact,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+2023/09/12 8:37:22 PM EST,CMP 128 Computer Science I,mech tech,Man,asian_pacific_islander,3.0,High Impact,High Impact,High Impact,,,High Impact,,,,,Yes,Yes,Yes,Yes
+2023/09/12 8:43:49 PM EST,CMP 128 Computer Science I,sharetime(edam),Man,asian_pacific_islander,3.0,,High Impact,High Impact,,Some Impact,,,,,,Yes,No,No,No
+2023/09/12 10:00:23 PM EST,CMP 128 Computer Science I,edam,Man,asian_pacific_islander,3.0,No Impact,No Impact,High Impact,No Impact,High Impact,High Impact,,,,,No,No,No,No
+2023/09/13 8:04:58 AM EST,CMP 128 Computer Science I,edam,Man,asian_pacific_islander,3.0,Some Impact,Some Impact,No Impact,No Impact,No Impact,No Impact,,,,,Yes,Yes,No,Yes
+2023/09/13 9:23:16 AM EST,CMP 130 Intro to IT,computing_engineering,Man,other,,No Impact,No Impact,High Impact,No Impact,No Impact,No Impact,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+2023/09/13 9:23:39 AM EST,CMP 130 Intro to IT,sharetime csip program,Man,asian_pacific_islander,,High Impact,No Impact,High Impact,No Impact,No Impact,Some Impact,Yes,No,Yes,No,No,No,Yes,Yes
+2023/09/13 9:23:52 AM EST,CMP 130 Intro to IT,sharetime csip program,Woman,hispanic_latino,,Some Impact,High Impact,High Impact,No Impact,Some Impact,,Yes,No,Yes,No,No,No,Yes,No
+2023/09/13 9:23:53 AM EST,CMP 130 Intro to IT,sharetime csip program,Woman,asian_pacific_islander,,High Impact,High Impact,High Impact,No Impact,High Impact,High Impact,Yes,Yes,Yes,No,No,No,Yes,Yes
+2023/09/13 9:24:41 AM EST,CMP 130 Intro to IT,sharetime csip program,Man,asian_pacific_islander,,High Impact,No Impact,No Impact,No Impact,No Impact,No Impact,Yes,Yes,Yes,No,No,No,No,Yes
+2023/09/13 9:24:59 AM EST,CMP 130 Intro to IT,sharetime csip program,Woman,asian_pacific_islander,,No Impact,High Impact,Some Impact,No Impact,No Impact,No Impact,Yes,Yes,No,No,Don't recall,Don't recall,Yes,Yes
+2023/09/13 9:25:00 AM EST,CMP 130 Intro to IT,sharetime csip program,Man,asian_pacific_islander,,,Some Impact,High Impact,No Impact,,,Yes,No,No,No,No,No,Yes,No
+2023/09/13 9:25:01 AM EST,CMP 130 Intro to IT,cybersecurity,Man,asian_pacific_islander,5.0,No Impact,No Impact,High Impact,No Impact,No Impact,High Impact,,,,,No,No,Yes,Yes
+2023/09/13 9:25:08 AM EST,CMP 130 Intro to IT,sharetime csip program,Man,asian_pacific_islander,,,,,,,,Yes,Yes,Yes,No,No,No,No,No
+2023/09/13 9:25:13 AM EST,CMP 130 Intro to IT,sharetime csip program,Man,black_african_american,,High Impact,High Impact,High Impact,High Impact,High Impact,High Impact,No,Yes,Yes,Yes,No,No,Yes,Yes
+2023/09/13 9:25:24 AM EST,CMP 120 Foundations of Information Security,sharetime csip program,Man,hispanic_latino,,High Impact,High Impact,High Impact,Some Impact,No Impact,Some Impact,Yes,No,Yes,Yes,No,Yes,Yes,Yes
+2023/09/13 9:26:44 AM EST,CMP 130 Intro to IT,sharetime csip program,Man,hispanic_latino,,High Impact,No Impact,High Impact,High Impact,No Impact,Some Impact,Yes,Yes,Yes,No,No,No,No,Yes
+2023/09/13 9:26:56 AM EST,CMP 130 Intro to IT,sharetime csip program,Woman,hispanic_latino,,High Impact,High Impact,High Impact,,,,No,No,No,No,No,No,No,No
+2023/09/13 9:27:02 AM EST,CMP 130 Intro to IT,computing_engineering,Man,asian_pacific_islander,,Some Impact,No Impact,High Impact,No Impact,No Impact,Some Impact,Yes,No,Yes,No,No,No,Yes,Yes
+2023/09/13 9:27:08 AM EST,CMP 130 Intro to IT,sharetime csip program,Woman,other,,No Impact,Some Impact,High Impact,No Impact,Some Impact,No Impact,Yes,Yes,No,No,No,No,Yes,Yes
+2023/09/13 9:27:25 AM EST,CMP 130 Intro to IT,sharetime csip program,Man,asian_pacific_islander,,,Some Impact,High Impact,No Impact,Some Impact,No Impact,Yes,No,No,No,No,No,Yes,No
+2023/09/13 9:28:23 AM EST,CMP 130 Intro to IT,sharetime csip program,Man,asian_pacific_islander,,High Impact,Some Impact,High Impact,No Impact,High Impact,High Impact,Yes,No,Yes,No,Yes,No,Yes,No
+2023/09/13 9:34:46 AM EST,CMP 130 Intro to IT,sharetime csip program,Man,asian_pacific_islander,,No Impact,No Impact,No Impact,No Impact,No Impact,No Impact,Yes,Yes,Yes,No,No,No,Yes,Yes
+2023/09/13 12:38:54 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,5.0,High Impact,High Impact,Some Impact,Some Impact,No Impact,Some Impact,,,,,No,No,Yes,Yes
+2023/09/13 12:41:53 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,5.0,Some Impact,Some Impact,Some Impact,No Impact,No Impact,Some Impact,,,,,No,No,No,Yes
+2023/09/13 1:04:24 PM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,hispanic_latino,,High Impact,High Impact,High Impact,Some Impact,No Impact,No Impact,Yes,No,Yes,No,No,No,Yes,No
+2023/09/13 1:06:04 PM EST,CMP 131 Fundamentals of Programming (Python),data analytics certificate of achievement,Man,asian_pacific_islander,,,,Some Impact,,,,Yes,No,Yes,No,No,Yes,No,Yes
+2023/09/13 1:06:25 PM EST,CMP 131 Fundamentals of Programming (Python),non degree seeking,Man,asian_pacific_islander,4.0,No Impact,Some Impact,No Impact,Some Impact,No Impact,No Impact,,,,,No,Yes,Yes,Yes
+2023/09/13 1:07:06 PM EST,CMP 131 Fundamentals of Programming (Python),non degree seeking,Woman,asian_pacific_islander,5.0,,,,,,,,,,,No,No,No,Yes
+2023/09/13 1:07:28 PM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,hispanic_latino,5.0,High Impact,High Impact,High Impact,No Impact,No Impact,No Impact,,,,,No,No,No,No
+2023/09/13 1:07:42 PM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Woman,hispanic_latino,,High Impact,High Impact,High Impact,Some Impact,Some Impact,Some Impact,Yes,Yes,No,No,Yes,No,Yes,Yes
+2023/09/13 1:07:56 PM EST,CMP 131 Fundamentals of Programming (Python),non degree seeking,Woman,asian_pacific_islander,5.0,High Impact,High Impact,No Impact,,,,,,,,Don't recall,No,No,Yes
+2023/09/13 1:08:02 PM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,asian_pacific_islander,,High Impact,Some Impact,Some Impact,Some Impact,No Impact,Some Impact,Yes,Yes,No,No,Don't recall,Don't recall,Don't recall,Yes
+2023/09/13 1:08:11 PM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,Some Impact,Some Impact,No Impact,Some Impact,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+2023/09/13 1:09:29 PM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,asian_pacific_islander,,High Impact,Some Impact,Some Impact,,No Impact,No Impact,Yes,Yes,No,No,Yes,No,Yes,Yes
+2023/09/13 1:10:30 PM EST,CMP 131 Fundamentals of Programming (Python),morris tech,Man,asian_pacific_islander,4.0,No Impact,No Impact,No Impact,No Impact,No Impact,No Impact,,,,,No,No,Yes,Yes
+2023/09/13 1:10:42 PM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,asian_pacific_islander,,Some Impact,No Impact,Some Impact,Some Impact,High Impact,High Impact,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+2023/09/13 1:11:55 PM EST,CMP 131 Fundamentals of Programming (Python),undecided,Man,asian_pacific_islander,5.0,,,,,,,,,,,No,No,No,Yes
+2023/09/13 1:12:17 PM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,asian_pacific_islander,,No Impact,No Impact,Some Impact,No Impact,No Impact,No Impact,Yes,No,Yes,No,No,No,Yes,Yes
+2023/09/13 1:13:56 PM EST,CMP 131 Fundamentals of Programming (Python),data analytics certificate of achievement,Man,black_african_american,,,Some Impact,Some Impact,No Impact,No Impact,No Impact,Yes,Yes,No,No,Yes,No,No,Yes
+2023/09/13 1:18:08 PM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,Some Impact,High Impact,High Impact,Yes,Yes,Yes,No,Yes,No,Yes,No
+2023/09/13 1:21:33 PM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,Some Impact,No Impact,Some Impact,Yes,No,No,No,Yes,No,No,Yes
+2023/09/13 1:48:48 PM EST,CMP 131 Fundamentals of Programming (Python),data analytics certificate of achievement,Man,asian_pacific_islander,,High Impact,High Impact,Some Impact,,,Some Impact,Yes,Yes,No,No,No,No,No,Yes
+2023/09/13 7:51:49 PM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,asian_pacific_islander,,Some Impact,Some Impact,No Impact,No Impact,No Impact,No Impact,Yes,No,No,No,No,No,Yes,No
+2023/09/13 7:56:59 PM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,High Impact,High Impact,High Impact,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+2023/09/13 9:09:43 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,Some Impact,High Impact,High Impact,Some Impact,Some Impact,High Impact,Yes,Yes,Yes,No,No,Yes,Yes,No
+2023/09/13 10:06:11 PM EST,CMP 131 Fundamentals of Programming (Python),non degree seeking,Non-binary,asian_pacific_islander,3.0,,High Impact,Some Impact,Some Impact,,Some Impact,,,,,No,No,No,Yes
+2023/09/14 1:04:47 PM EST,CMP 128 Computer Science I,computing_engineering,Woman,asian_pacific_islander,,High Impact,High Impact,High Impact,High Impact,Some Impact,High Impact,Yes,Yes,No,Yes,Yes,No,Yes,No
+2023/09/14 2:20:57 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,,Some Impact,No Impact,High Impact,Yes,No,No,No,No,No,Yes,No
+2023/09/14 5:41:00 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,No Impact,High Impact,High Impact,High Impact,Some Impact,Some Impact,Yes,Yes,No,Yes,No,No,Yes,No
+2023/09/14 7:57:19 PM EST,CMP 128 Computer Science I,computing_engineering,Woman,asian_pacific_islander,,High Impact,High Impact,High Impact,High Impact,,High Impact,Yes,Yes,Yes,Yes,Yes,Don't recall,Yes,Yes
+2023/09/14 9:52:54 PM EST,CMP 239 Internet & Web Page Design,computing_engineering,Man,black_african_american,,No Impact,No Impact,No Impact,No Impact,No Impact,High Impact,Yes,No,No,No,No,No,Yes,No
+2023/09/14 10:26:02 PM EST,CMP 239 Internet & Web Page Design,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,,Some Impact,,Yes,No,Yes,Yes,No,No,Yes,Yes
+2023/09/15 1:05:31 AM EST,CMP 128 Computer Science I,computing_engineering,Woman,hispanic_latino,5.0,High Impact,High Impact,High Impact,No Impact,No Impact,High Impact,,,,,Yes,Yes,Yes,Yes
+2023/09/15 1:52:48 AM EST,CMP 239 Internet & Web Page Design,computing_engineering,Man,asian_pacific_islander,,Some Impact,Some Impact,Some Impact,,,,Yes,No,Yes,Yes,No,No,Yes,Yes
+2023/09/15 7:14:26 AM EST,CMP 239 Internet & Web Page Design,computing_engineering,Man,asian_pacific_islander,,Some Impact,High Impact,Some Impact,No Impact,No Impact,No Impact,Yes,Yes,No,No,No,No,No,Yes
+2023/09/15 7:59:37 AM EST,CMP 239 Internet & Web Page Design,computing_engineering,Woman,asian_pacific_islander,,High Impact,High Impact,High Impact,No Impact,High Impact,High Impact,Yes,Yes,Yes,No,No,No,Yes,Yes
+2023/09/15 11:40:14 AM EST,CMP 128 Computer Science I,edam,Man,asian_pacific_islander,3.0,Some Impact,High Impact,High Impact,High Impact,High Impact,High Impact,,,,,Yes,Yes,No,No
+2023/09/15 1:21:30 PM EST,CMP 239 Internet & Web Page Design,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,No Impact,No Impact,Some Impact,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+2023/09/15 1:22:05 PM EST,CMP 239 Internet & Web Page Design,computing_engineering,Man,hispanic_latino,,High Impact,High Impact,Some Impact,Some Impact,No Impact,No Impact,Yes,Yes,No,No,Yes,No,No,No
+2023/09/15 10:36:48 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,Some Impact,Some Impact,Some Impact,High Impact,High Impact,No Impact,Yes,No,Yes,Yes,Yes,Yes,No,No
+2023/09/18 8:43:18 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,3.0,,,High Impact,,,,,,,,Yes,No,No,No
+2023/09/18 8:43:24 AM EST,CMP 128 Computer Science I,culinary arts and science,Woman,asian_pacific_islander,3.0,High Impact,High Impact,High Impact,Some Impact,,Some Impact,,,,,Don't recall,Yes,No,Yes
+2023/09/18 8:44:00 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,Some Impact,Some Impact,High Impact,Yes,Yes,Yes,No,Yes,Don't recall,Yes,Yes
+2023/09/18 8:44:09 AM EST,CMP 128 Computer Science I,computing_engineering,Woman,hispanic_latino,,Some Impact,No Impact,No Impact,No Impact,No Impact,No Impact,Yes,No,Yes,No,Yes,No,No,No
+2023/09/18 8:44:27 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,Some Impact,High Impact,No Impact,Some Impact,Yes,Yes,No,No,No,No,Yes,No
+2023/09/18 8:45:05 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,High Impact,High Impact,High Impact,Yes,No,Yes,Yes,Yes,No,Yes,No
+2023/09/18 8:45:49 AM EST,CMP 128 Computer Science I,cis game development option,Man,asian_pacific_islander,,High Impact,Some Impact,Some Impact,Some Impact,Some Impact,High Impact,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+2023/09/18 8:46:06 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,3.0,No Impact,High Impact,Some Impact,Some Impact,Some Impact,Some Impact,,,,,No,No,Yes,No
+2023/09/18 8:46:21 AM EST,CMP 128 Computer Science I,i am a highschool student and decided to take the course since it was offered to me.,Man,asian_pacific_islander,4.0,,,,,,,,,,,No,No,No,Yes
+2023/09/18 8:46:27 AM EST,CMP 128 Computer Science I,computing_engineering,Man,hispanic_latino,,Some Impact,High Impact,Some Impact,Some Impact,No Impact,Some Impact,Yes,No,No,No,No,No,Yes,Yes
+2023/09/18 8:46:58 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,Some Impact,No Impact,No Impact,No Impact,Yes,Yes,Yes,Yes,No,No,No,No
+2023/09/18 8:47:14 AM EST,CMP 128 Computer Science I,computing_engineering,Man,hispanic_latino,,High Impact,High Impact,High Impact,Some Impact,High Impact,High Impact,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+2023/09/18 8:47:17 AM EST,CMP 128 Computer Science I,"technical studies, applied associate of science",Man,asian_pacific_islander,,High Impact,High Impact,Some Impact,No Impact,No Impact,No Impact,No,No,No,No,No,No,No,Yes
+2023/09/18 8:47:21 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,4.0,High Impact,High Impact,Some Impact,No Impact,High Impact,High Impact,,,,,Don't recall,No,Yes,Yes
+2023/09/18 8:47:36 AM EST,CMP 128 Computer Science I,computing_engineering,Man,other,1.0,Some Impact,Some Impact,High Impact,No Impact,Some Impact,No Impact,,,,,No,No,Yes,No
+2023/09/18 8:47:46 AM EST,CMP 128 Computer Science I,computing_engineering,Non-binary,asian_pacific_islander,,,High Impact,Some Impact,Some Impact,High Impact,Some Impact,Yes,Yes,Yes,No,No,No,No,Yes
+2023/09/18 8:48:26 AM EST,CMP 128 Computer Science I,electrical engineer,Man,asian_pacific_islander,4.0,No Impact,No Impact,No Impact,No Impact,High Impact,High Impact,,,,,No,No,Yes,No
+2023/09/18 5:27:40 PM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,asian_pacific_islander,,Some Impact,High Impact,High Impact,Some Impact,No Impact,No Impact,Yes,Yes,No,No,No,No,Yes,No
+2023/09/18 5:28:48 PM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,asian_pacific_islander,,Some Impact,Some Impact,High Impact,Some Impact,No Impact,High Impact,Yes,Yes,Yes,Yes,Yes,Don't recall,Don't recall,Don't recall
+2023/09/18 7:35:26 PM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,other,,High Impact,High Impact,,,,,Yes,Yes,Yes,Yes,Don't recall,Don't recall,Don't recall,Don't recall
+2023/09/18 7:35:54 PM EST,CMP 120 Foundations of Information Security,non degree seeking,Man,asian_pacific_islander,5.0,No Impact,No Impact,No Impact,No Impact,No Impact,No Impact,,,,,Yes,Yes,No,Yes
+2023/09/18 7:38:06 PM EST,CMP 120 Foundations of Information Security,non degree seeking,Man,other,5.0,High Impact,High Impact,High Impact,No Impact,Some Impact,Some Impact,,,,,Yes,No,Yes,Yes
+2023/09/18 7:39:35 PM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,asian_pacific_islander,,Some Impact,No Impact,No Impact,No Impact,No Impact,High Impact,Yes,Yes,No,No,No,No,Yes,No
+2023/09/18 7:40:35 PM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,black_african_american,,High Impact,High Impact,High Impact,No Impact,High Impact,High Impact,Yes,Yes,Yes,No,No,No,Yes,Yes
+2023/09/18 7:41:42 PM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,other,,High Impact,High Impact,Some Impact,Some Impact,High Impact,Some Impact,Yes,Yes,Yes,No,No,No,Yes,No
+2023/09/18 7:41:43 PM EST,CMP 120 Foundations of Information Security,undecided,Man,asian_pacific_islander,4.0,Some Impact,Some Impact,Some Impact,Some Impact,No Impact,No Impact,,,,,No,No,Yes,Yes
+2023/09/18 7:43:10 PM EST,CMP 120 Foundations of Information Security,undecided,Man,asian_pacific_islander,5.0,Some Impact,High Impact,High Impact,,,High Impact,,,,,No,No,No,No
+2023/09/18 7:44:06 PM EST,CMP 120 Foundations of Information Security,computing_engineering,Prefer not to say,other,,,Some Impact,,,,High Impact,Yes,No,No,Yes,No,No,Yes,No
+2023/09/19 8:45:58 AM EST,CMP 131 Fundamentals of Programming (Python),"technical studies, applied associate of science",Woman,other,,Some Impact,Some Impact,Some Impact,Some Impact,Some Impact,Some Impact,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2023/09/24 8:08:52 PM EST,CMP 131 Fundamentals of Programming (Python),computing_engineering,Man,asian_pacific_islander,,Some Impact,Some Impact,Some Impact,No Impact,Some Impact,No Impact,Yes,No,Yes,No,No,No,Yes,No
+2023/09/25 1:13:12 PM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,asian_pacific_islander,,Some Impact,High Impact,High Impact,No Impact,No Impact,Some Impact,Yes,No,No,Yes,No,No,Yes,No
+2023/09/25 2:41:33 PM EST,CMP 130 Intro to IT,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,High Impact,High Impact,Some Impact,Yes,Yes,Yes,No,Yes,No,No,No
+2023/09/25 2:43:07 PM EST,CMP 130 Intro to IT,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,No Impact,High Impact,High Impact,Yes,Yes,Yes,No,No,No,Yes,No
+2023/09/25 2:43:12 PM EST,CMP 130 Intro to IT,computing_engineering,Man,asian_pacific_islander,,Some Impact,Some Impact,No Impact,No Impact,Some Impact,No Impact,Yes,Yes,Yes,No,No,No,Yes,Yes
+2023/09/25 2:43:25 PM EST,CMP 130 Intro to IT,computing_engineering,Man,hispanic_latino,,High Impact,High Impact,Some Impact,No Impact,High Impact,No Impact,Yes,No,No,Yes,No,No,Yes,No
+2023/09/25 2:43:38 PM EST,CMP 130 Intro to IT,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,No Impact,No Impact,High Impact,Yes,Yes,Yes,No,No,No,Yes,Yes
+2023/09/25 2:43:53 PM EST,CMP 130 Intro to IT,computing_engineering,Man,asian_pacific_islander,,Some Impact,High Impact,High Impact,No Impact,Some Impact,High Impact,Yes,No,No,Yes,No,No,Yes,No
+2023/09/25 2:44:28 PM EST,CMP 130 Intro to IT,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,High Impact,No Impact,High Impact,Yes,No,No,Yes,Yes,No,No,No
+2023/09/25 2:44:28 PM EST,CMP 130 Intro to IT,computing_engineering,Man,hispanic_latino,,High Impact,High Impact,Some Impact,Some Impact,No Impact,Some Impact,Yes,Yes,Yes,No,No,No,No,Yes
+2023/09/25 2:45:13 PM EST,CMP 130 Intro to IT,computing_engineering,Man,black_african_american,,No Impact,High Impact,High Impact,No Impact,No Impact,No Impact,Yes,Yes,No,No,Yes,Yes,No,No
+2023/09/25 2:45:26 PM EST,CMP 130 Intro to IT,computing_engineering,Woman,asian_pacific_islander,,High Impact,High Impact,High Impact,High Impact,No Impact,Some Impact,Yes,No,Yes,No,Yes,Yes,Yes,No
+2023/09/25 2:45:28 PM EST,CMP 130 Intro to IT,computing_engineering,Man,asian_pacific_islander,,Some Impact,Some Impact,Some Impact,No Impact,Some Impact,Some Impact,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+2023/09/25 2:45:46 PM EST,CMP 130 Intro to IT,computing_engineering,Man,asian_pacific_islander,,No Impact,No Impact,No Impact,No Impact,No Impact,No Impact,Yes,No,Yes,No,No,No,Yes,No
+2023/09/25 2:45:50 PM EST,CMP 130 Intro to IT,computing_engineering,Man,asian_pacific_islander,,Some Impact,Some Impact,No Impact,No Impact,Some Impact,Some Impact,Yes,Yes,Yes,No,No,No,Yes,Yes
+2023/09/25 2:48:43 PM EST,CMP 130 Intro to IT,computing_engineering,Man,asian_pacific_islander,,,Some Impact,High Impact,No Impact,High Impact,No Impact,Yes,No,No,No,No,No,Yes,Yes
+2023/09/25 2:52:17 PM EST,CMP 130 Intro to IT,computing_engineering,Man,asian_pacific_islander,,,Some Impact,High Impact,,High Impact,Some Impact,Yes,No,No,No,No,No,Yes,Yes
+2023/09/25 9:52:29 PM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,black_african_american,,Some Impact,Some Impact,Some Impact,Some Impact,Some Impact,Some Impact,Yes,No,No,Yes,No,No,Yes,No
+2023/09/26 8:34:47 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,hispanic_latino,,No Impact,High Impact,No Impact,No Impact,High Impact,High Impact,Yes,No,No,Yes,No,No,Yes,No
+2023/09/26 8:35:07 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,High Impact,High Impact,High Impact,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2023/09/26 8:35:26 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,asian_pacific_islander,,High Impact,Some Impact,High Impact,,,,Yes,Yes,Yes,Yes,No,No,Yes,No
+2023/09/26 8:36:29 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,asian_pacific_islander,,Some Impact,High Impact,High Impact,No Impact,No Impact,No Impact,Yes,No,No,Yes,No,No,Yes,No
+2023/09/26 8:36:43 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Non-binary,asian_pacific_islander,,Some Impact,High Impact,Some Impact,Some Impact,No Impact,No Impact,Yes,Yes,Yes,No,Yes,Don't recall,No,No
+2023/09/26 8:38:05 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Woman,asian_pacific_islander,,Some Impact,High Impact,,,,,Yes,No,No,Yes,No,No,No,No
+2023/09/26 8:38:11 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Woman,asian_pacific_islander,,High Impact,High Impact,High Impact,No Impact,Some Impact,High Impact,Yes,Yes,No,No,No,Yes,Yes,No
+2023/09/26 8:38:25 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,asian_pacific_islander,,Some Impact,High Impact,Some Impact,No Impact,Some Impact,Some Impact,Yes,No,Yes,No,No,No,Yes,No
+2023/09/26 8:39:32 AM EST,CMP 120 Foundations of Information Security,cis game development option,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,No Impact,No Impact,Some Impact,Yes,Yes,Yes,No,No,No,Yes,Yes
+2023/09/26 8:39:35 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,asian_pacific_islander,,Some Impact,Some Impact,No Impact,Some Impact,No Impact,No Impact,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+2023/09/26 8:41:19 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,black_african_american,,High Impact,High Impact,High Impact,High Impact,High Impact,High Impact,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2023/09/26 8:42:02 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,Some Impact,No Impact,Some Impact,Yes,No,No,No,Yes,No,No,Yes
+2023/09/26 8:42:55 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,asian_pacific_islander,3.0,High Impact,High Impact,High Impact,Some Impact,Some Impact,High Impact,,,,,Yes,Don't recall,Yes,Yes
+2023/09/26 8:43:02 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Woman,asian_pacific_islander,,High Impact,Some Impact,High Impact,No Impact,Some Impact,High Impact,Yes,Yes,Yes,Yes,Don't recall,Yes,Yes,No
+2023/09/26 8:43:09 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,Some Impact,No Impact,Some Impact,No Impact,Yes,No,Yes,No,No,No,Yes,No
+2023/09/26 8:44:05 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,other,,High Impact,High Impact,High Impact,No Impact,Some Impact,Some Impact,Yes,Yes,Yes,No,No,No,Yes,Yes
+2023/09/26 8:45:42 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,asian_pacific_islander,,Some Impact,Some Impact,Some Impact,Some Impact,No Impact,Some Impact,Yes,No,Yes,No,No,No,Don't recall,Don't recall
+2023/09/26 8:46:09 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,asian_pacific_islander,,High Impact,Some Impact,Some Impact,Some Impact,Some Impact,Some Impact,Yes,Yes,Yes,No,No,No,No,No
+2023/09/26 8:46:35 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,Some Impact,Some Impact,No Impact,Some Impact,Some Impact,Yes,No,No,No,No,No,Yes,Yes
+2023/09/26 8:52:13 AM EST,CMP 120 Foundations of Information Security,cis game development option,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,No Impact,Some Impact,Some Impact,Yes,Yes,Yes,No,No,No,Yes,Yes
+2023/09/26 11:13:47 AM EST,CMP 130 Intro to IT,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,Some Impact,No Impact,No Impact,Yes,No,No,No,Yes,No,No,Yes
+2023/09/30 12:29:47 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,Some Impact,No Impact,High Impact,Some Impact,Yes,Yes,No,Yes,No,No,Yes,Yes
+2023/09/30 1:17:48 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,No Impact,No Impact,No Impact,Some Impact,Yes,Yes,No,No,Don't recall,Don't recall,Yes,Yes
+2023/10/01 2:40:07 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,High Impact,Some Impact,High Impact,Yes,Yes,No,No,Don't recall,Yes,Yes,No
+2023/10/02 12:21:17 AM EST,CMP 128 Computer Science I,computing_engineering,Man,hispanic_latino,,High Impact,High Impact,High Impact,,Some Impact,,Yes,Yes,Yes,No,Yes,No,Yes,No
+2023/10/02 1:11:43 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,High Impact,High Impact,Some Impact,High Impact,High Impact,Yes,Yes,Yes,Yes,No,No,Yes,No
+2023/10/02 9:04:36 AM EST,CMP 128 Computer Science I,business administration,Man,hispanic_latino,4.0,High Impact,High Impact,Some Impact,Some Impact,High Impact,Some Impact,,,,,Yes,Yes,Yes,Yes
+2023/10/02 10:30:24 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,High Impact,Some Impact,Some Impact,Some Impact,Some Impact,Some Impact,Yes,Yes,Yes,No,No,No,Yes,Yes
+2023/10/02 11:02:20 AM EST,CMP 128 Computer Science I,computing_engineering,Man,hispanic_latino,,High Impact,,High Impact,Some Impact,,,No,No,No,No,No,Yes,No,No
+2023/10/02 3:35:01 PM EST,CMP 128 Computer Science I,computing_engineering,Man,other,,High Impact,High Impact,Some Impact,Some Impact,Some Impact,Some Impact,Yes,Yes,No,No,Don't recall,No,No,Yes
+2023/10/04 1:23:48 AM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,Some Impact,High Impact,Some Impact,Some Impact,High Impact,,Yes,Yes,No,No,No,No,Yes,No
+2023/10/04 9:09:54 AM EST,CMP 128 Computer Science I,cis game development option,Man,black_african_american,,No Impact,High Impact,High Impact,No Impact,High Impact,High Impact,Yes,Yes,No,No,No,No,Yes,No
+2023/10/04 2:28:21 PM EST,CMP 130 Intro to IT,computing_engineering,Non-binary,asian_pacific_islander,,,,,,,,No,No,No,No,Don't recall,Don't recall,Don't recall,Don't recall
+2023/10/04 9:41:18 PM EST,CMP 128 Computer Science I,computing_engineering,Woman,asian_pacific_islander,,High Impact,Some Impact,Some Impact,No Impact,Some Impact,High Impact,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Don't recall
+2023/10/06 11:00:25 AM EST,CMP 128 Computer Science I,computing_engineering,Man,hispanic_latino,3.0,Some Impact,High Impact,No Impact,No Impact,Some Impact,High Impact,,,,,No,No,Yes,Yes
+2023/10/06 12:59:38 PM EST,CMP 128 Computer Science I,biology,Man,asian_pacific_islander,4.0,High Impact,High Impact,Some Impact,Some Impact,High Impact,Some Impact,,,,,No,No,Yes,No
+2023/10/10 12:51:37 PM EST,CMP 128 Computer Science I,computing_engineering,Man,asian_pacific_islander,,Some Impact,High Impact,High Impact,Some Impact,High Impact,High Impact,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+2023/10/13 6:31:03 PM EST,CMP 128 Computer Science I,computing_engineering,Woman,black_african_american,,No Impact,No Impact,No Impact,Some Impact,No Impact,Some Impact,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+2023/12/05 9:53:38 AM EST,CMP 120 Foundations of Information Security,computing_engineering,Man,black_african_american,,No Impact,No Impact,No Impact,No Impact,No Impact,No Impact,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
